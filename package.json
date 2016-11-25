@@ -1,0 +1,29 @@
+{
+  "name": "ceebstyle",
+  "version": "0.0.0",
+  "description": "An easier alternative to HTML/CSS.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "pegjs": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CeebStyle/ceebstyle.git"
+  },
+  "keywords": [
+    "CeebStyle"
+  ],
+  "author": "Qwerp-Derp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CeebStyle/ceebstyle/issues"
+  },
+  "homepage": "https://github.com/CeebStyle/ceebstyle#readme"
+}

@@ -1,0 +1,26 @@
+style (
+  section uses (
+    colour #fff
+    font_size 20
+  )
+  text uses (
+    font "Candara"
+  )
+)
+section in div (
+  text para "
+    Hello, World!
+    This is multi-lined.
+  "
+  header 2 test "This is a single-lined header."
+  link "http://google.com" "This is a link."
+  section nested (
+    section doublynested (
+      text "Please stop."
+    )
+    header 3 random "This is another single-lined header."
+  )
+)
+section otherdiv (
+  header 3 other "This is a smaller header."
+)

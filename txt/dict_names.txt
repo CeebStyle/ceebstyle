@@ -1,0 +1,9 @@
+section:div
+header:h1,h2,h3,h4,h5,h6
+header_1:h1
+header_2:h2
+header_3:h3
+header_4:h4
+header_5:h5
+header_6:h6
+text:p
